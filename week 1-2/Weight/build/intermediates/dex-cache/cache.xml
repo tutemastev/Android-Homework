@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/9b4f7400d64f5ff5c9b5d8fcd3207ecf284c8ed9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/apple/AndroidStudioProjects/Weight/app/build/intermediates/pre-dexed/debug/classes_db7dae27ef7f9b26ef5daf848c48fa7b513c500c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/1f670406c40496f187fef1f94909b9332dafec52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/apple/AndroidStudioProjects/Weight/app/build/intermediates/pre-dexed/debug/classes_ac590314562d814d4bd6ba214534fcf0618f9220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/36fa70d514ce5fc0712c464d6dba3b49625f65f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/apple/AndroidStudioProjects/Weight/app/build/intermediates/pre-dexed/debug/classes_43b1776eb67f7b6a8d5ccc2e0a827c1a4a2cb171.jar" />
+    </item>
+
+</items>
